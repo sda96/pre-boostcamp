@@ -1,89 +1,89 @@
-├── 1. File_system & Terminal_basic
+├── **1. File_system & Terminal_basic**
 
-​		├── 컴퓨터 OS
+    ├── 컴퓨터 OS
 
-​		├── 파일 시스템
+    ├── 파일 시스템
 
-​		├── 파일 시스템의 경로
+    ├── 파일 시스템의 경로
 
-​		└── 터미널
+    └── 터미널
 
-├── 2. 파이썬 개요
+├── **2. 파이썬 개요**
 
-​		└── 파이썬 사용 이유
+    └── 파이썬 사용 이유
 
-├── 3. 파이썬 코딩 환경
+├── **3. 파이썬 코딩 환경**
 
-​		├── 개발 환경
+    ├── 개발 환경
 
-​		├── Python Interpreter
+    ├── Python Interpreter
 
-​		└── 코드 편집기
+    └── 코드 편집기
 
-├── 4. Variables & List
+├── **4. Variables & List**
 
-​		├── Variable Define
+    ├── Variable Define
 
-​		├── List
+    ├── List
 
-​		└── Matrix
+    └── Matrix
 
-├── 5. Function and Console Input Output
+├── **5. Function and Console Input Output**
 
-​		├── Function
+    ├── Function
 
-​		└── Console Input Out
+    └── Console Input Out
 
-├── 6. Conditionals and Loops
+├── **6. Conditionals and Loops**
 
-​		├── Conditions( if )
+    ├── Conditions( if )
 
-​		├── Loop( for, while )
+    ├── Loop( for, while )
 
-​		└── Debugging
+    └── Debugging
 
-├── 7. String and advanced function concept
+├── **7. String and advanced function concept**
 
-​		├── String
+    ├── String
 
-​		├── Function - Call by object reference
+    ├── Function - Call by object reference
 
-​		├── Function - Swap
+    ├── Function - Swap
 
-​		├── Function - Scoping rule
+    ├── Function - Scoping rule
 
-​		├── Function - Recursive
+    ├── Function - Recursive
 
-​		├── Function - Type hints
+    ├── Function - Type hints
 
-​		├── Function - Docstring
+    ├── Function - Docstring
 
-​		└── Function - 작성 가이드 라인
+    └── Function - 작성 가이드 라인
 
-├── 8. Python data structure(type)
+├── **8. Python data structure(type)**
 
-​		├── Stack & Que
+    ├── Stack & Que
 
-​		├── Tuple & Set
+    ├── Tuple & Set
 
-​		├── Dictionary
+    ├── Dictionary
 
-​		└── Collection module
+    └── Collection module
 
-├── 9. Pythonic code
+├── **9. Pythonic code**
 
-​		├── Split & Join
+    ├── Split & Join
 
-​		├── List comprehension
+    ├── List comprehension
 
-​		├── Enumerate & Zip
+    ├── Enumerate & Zip
 
-​		├── Lambda & Map & Reduce
+    ├── Lambda & Map & Reduce
 
-​		├── Generator
+    ├── Generator
 
-​		├── Asterisk
+    ├── Asterisk
 
-​		├── Coruotine
+    ├── Coruotine
 
-​		└── Decorator
+    └── Decorator
